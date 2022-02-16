@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lenn
+- 👋 Hi, I’m Lenni
 - 👀 I’m interested in C#, Web Developement and Mobile Developement.
 - 🌱 I’m currently learning C# and the basics of Web Developement.
 - 💞️ I’m looking to collaborate on C# Projects.
