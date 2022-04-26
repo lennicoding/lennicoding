@@ -9,7 +9,7 @@ My experience with coding goes back to a year ago, and I have been learning C# s
 * 🌍  I'm based in Munich
 * 🖥️  See my portfolio at [Lennicoding](http://Lenn13.github.io/lennicoding)
 * ✉️  You can contact me at [Lennfo1@gmail.com](mailto:Lennfo1@gmail.com)
-* 🚀  I'm currently working on [a Chess game](http://github.com/Lenn13/Chess)
+* 🚀  I'm currently working on [a Library Management System](http://github.com/Lenn13/Library)
 * 🧠  I'm learning C# and Flutter
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I like listen to Lofi when I code :D
