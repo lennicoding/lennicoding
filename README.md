@@ -42,8 +42,13 @@ I am a 13 year old student from Munich and learn programming for about 2 years! 
                           
 <a href="https://lennicoding.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
                           
-<a href="http://www.instagram.com/lenn1_13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="http://www.instagram.com/lenn1_13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+<b>My GitHub Stats</b><a
 href="http://www.github.com/lennicoding"><img src="https://github-readme-stats.vercel.app/api?username=lennicoding&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="lennicoding's GitHub stats" /></a><a
 href="http://www.github.com/lennicoding"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=lennicoding&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a><a href="https://github.com/lennicoding" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennicoding&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-href="https://www.buymeacoffee.com/lennicodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=lennicoding&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a><a href="https://github.com/lennicoding" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennicoding&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+<ahref="https://www.buymeacoffee.com/lennicodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
