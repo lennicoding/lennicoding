@@ -6,7 +6,7 @@
 
 ----------------
 
-i'm a aspiring web developer and student from munich in germany! i would like to take part in a hackathon :D, i work on codeconnect at the moment (a web forum :D, see at my repo)
+i'm an aspiring web developer and student from munich in germany! i would like to take part in a hackathon :D, i work on codeconnect at the moment (a web forum :D, see at my repo)
 
 *   🌍  i'm based in munich
 *   ✉️  contact me via mail [lennfo1@gmail.com](mailto:lennfo1@gmail.com)
