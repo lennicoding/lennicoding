@@ -2,7 +2,7 @@
 # Hi 👋 My name is Lennart Fock
 
 ![Coding GIF](https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76116e7fd77a20663ab2e7d073436d514a649ebe72fe&rid=giphy.gif&ct=g)
-### i like to code
+### i like coding
 
 ----------------
 
