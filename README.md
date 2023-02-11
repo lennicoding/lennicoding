@@ -10,7 +10,6 @@ i'm an aspiring web developer and student from munich in germany! i would like t
 
 *   🌍  i'm based in munich
 *   ✉️  contact me via mail [lennfo1@gmail.com](mailto:lennfo1@gmail.com)
-*   🤝  i'm open to collaborate on cool and interesting projects
 *   ⚡  i like to listen to lofi when i code
 
 ### technologies, frameworks, languages and tools i use 
